@@ -1,0 +1,11 @@
+Package: addAlpha
+Title: Adds Transparency Value to R Colours
+Version: 0.0.0.9000
+Authors@R:
+    person("Bruno", "Richard", , "bruno.richard@rutgers.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-4297-2492"))
+Description: This package contains a single function, add.alpha, which adds a transparency value to R colours.
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
